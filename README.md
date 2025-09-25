@@ -95,7 +95,7 @@ invoice-generator-saas/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/invoice-generator-saas.git
+git clone https://github.com/nasrosoft/invoice-generator-saas.git
 cd invoice-generator-saas
 ```
 
@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - Initial work - [Your GitHub](https://github.com/YOUR_USERNAME)
+- **nasrosoft** - Initial work - [GitHub](https://github.com/nasrosoft)
 
 ## 🙏 Acknowledgments
 
