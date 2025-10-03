@@ -235,7 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **nasrosoft** - Initial work - [GitHub](https://github.com/nasrosoft)
 
-## 🙏 Acknowledgments
+## 🙏- Acknowledgments - 
 
 - [Semantic UI React](https://react.semantic-ui.com/) for the beautiful UI components
 - [MongoDB](https://www.mongodb.com/) for the database platform
